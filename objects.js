@@ -1,6 +1,6 @@
 var playlist = {
-  Beatles:"Come Together",
-  Paramore:"Fake Happy",
+  Beatles: "Come Together",
+  Paramore: "Fake Happy",
   Panic at the disco: "LA Devotee"
 }
 
