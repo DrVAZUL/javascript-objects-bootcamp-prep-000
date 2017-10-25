@@ -4,6 +4,6 @@ var playlist = {
   Panic at the disco: "LA Devotee"
 }
 
-function updatePlaylist(playlist, artist, song) {
-  return playlist.artist = song
+function updatePlaylist(object, artist, song) {
+  return object.artist = song
 }
